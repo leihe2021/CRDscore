@@ -40,4 +40,4 @@ names(CRDscore) %>%
 ```
 ### 4.Citation
 If you use CRDscore in published research, please cite:
-He L, Fan Y, Zhang Y, et al. Single-Cell Transcriptomic Analysis Reveals Circadian Rhythm Disruption Associated with Poor Prognosis and Drug-Resistance in Lung Adenocarcinoma. J Pineal Res 2022;e12803. DOI: 10.1111/jpi.12803. PMID: 35436363
+He L, Fan Y, Zhang Y, et al. Single-Cell Transcriptomic Analysis Reveals Circadian Rhythm Disruption Associated with Poor Prognosis and Drug-Resistance in Lung Adenocarcinoma.  J Pineal Res 2022;e12803. DOI: 10.1111/jpi.12803. PMID: 35436363
